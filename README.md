@@ -1,2 +1,5 @@
-# led-roulette
-stm32f3discovery led-roulette
+### LED Roulette
+
+Learning how to play with stm32f3discovery.
+
+<img src="gif.gif" />
